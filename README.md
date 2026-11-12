@@ -3,7 +3,7 @@ cse grad from goa
 
 ### tech stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,py,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,py,git,github,vscode,zed,figma,vercel" />
 </p>
 
 ### experience
