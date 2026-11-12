@@ -1,5 +1,5 @@
 ## Hi, I'm Shaurya
-**Computer Science undergrad based in Goa.** Building web tools, browser extensions, and sports analytics models.
+**Computer Science undergrad based in Goa.**
 
 ---
 
