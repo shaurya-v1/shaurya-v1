@@ -5,18 +5,18 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,py" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,py,mysql,vscode,figma,ps" />
 </p>
 
 ### Experience & Projects
 
 ```text
-$ projects
+$ Projects
 
 ├── IPLgyaan - IPL statistics web app & match predictor
 └── open-in-seriesgraph - Firefox extension for Serializd
 
-$ community
+$ Community
 
 └── Core Member - Google Developer Groups (2026 - 2027)
 ```
