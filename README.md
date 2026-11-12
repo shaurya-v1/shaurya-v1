@@ -22,5 +22,4 @@ $ Community
 ```
 
 ### Connect
-- **Projects:** [IPLgyaan](https://github.com/shaurya-v1/IPLgyaan) · [open-in-seriesgraph](https://github.com/shaurya-v1/open-in-seriesgraph)
 - **LinkedIn:** [shaurya-singh](https://www.linkedin.com/in/shaurya-singh-7351a642a)
