@@ -1,19 +1,26 @@
-### shaurya
-cse grad from goa
+## Hi, I'm Shaurya
+**Computer Science undergrad based in Goa.** Building web tools, browser extensions, and sports analytics models.
 
-### tech stack
+---
+
+### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,py,git,github,vscode,zed,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,py" />
 </p>
 
-### experience
+### Experience & Projects
 
 ```text
-$ projects ` -
+$ projects
 
-├── IPLgyaan - ipl related stats website with match predictor
-└── open-in-seriesgraph - simple ff extension to enhance ux on serializd
+├── IPLgyaan - IPL statistics web app & match predictor
+└── open-in-seriesgraph - Firefox extension for Serializd
 
-$ community work ` -
+$ community
 
-└── core member - google developer groups (26-27)
+└── Core Member - Google Developer Groups (2026 - 2027)
+```
+
+### Connect
+- **Projects:** [IPLgyaan](https://github.com/shaurya-v1/IPLgyaan) · [open-in-seriesgraph](https://github.com/shaurya-v1/open-in-seriesgraph)
+- **LinkedIn:** [shaurya-singh](https://www.linkedin.com/in/shaurya-singh-7351a642a)
