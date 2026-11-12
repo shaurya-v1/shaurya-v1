@@ -5,7 +5,7 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,py,mysql,vscode,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,mysql,html,css,linux,git,github,vscode,figma,ps" />
 </p>
 
 ### Experience & Projects
