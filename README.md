@@ -22,4 +22,4 @@ $ Community
 ```
 
 ### Connect
-- **LinkedIn:** [shaurya-singh](https://www.linkedin.com/in/shaurya-singh-7351a642a)
+- [**LinkedIn:**](https://www.linkedin.com/in/shaurya-singh-7351a642a)
